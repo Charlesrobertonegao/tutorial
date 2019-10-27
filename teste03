@@ -1,0 +1,220 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD +" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="ESPORTES",ALL SPORTS HD +
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD  +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/Bandsports-2018-atual.jpg/revision/latest?cb=20190512205903" group-title="ESPORTES",BAND SPORTS FHD  +
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/Bandsports-2018-atual.jpg/revision/latest?cb=20190512205903" group-title="ESPORTES",BAND SPORTS HD +
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/Bandsports-2018-atual.jpg/revision/latest?cb=20190512205903" group-title="ESPORTES",BAND SPORTS HD +
+#EXTINF:-1 tvg-id="aande.br" tvg-name="COMBATE 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="4K",COMBATE 4K
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD +" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="ESPORTES",COMBATE FHD +
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD +" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="ESPORTES",COMBATE HD +
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD +" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="ESPORTES",COMBATE SD +
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/E_2012.svg/revision/latest/scale-to-width-down/149?cb=20180401144158" group-title="FILMES SERIES",E! HD
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/E_2012.svg/revision/latest/scale-to-width-down/149?cb=20180401144158" group-title="FILMES SERIES",E! SD
+#EXTINF:-1 tvg-id="" tvg-name="Ei PLUS HD +" tvg-logo="https://www.esporteinterativo.com.br/__export/1569340928904/sites/esporteinterativo/arte/apps/precomposed.png_285119621.png" group-title="ESPORTES",Ei PLUS HD +
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/640?cb=20170609170727" group-title="FULL HD H265",ESPN H265
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/640?cb=20170609170727" group-title="ESPORTES",ESPN FHD +
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/640?cb=20170609170727" group-title="ESPORTES",ESPN HD +
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/640?cb=20170609170727" group-title="ESPORTES",ESPN SD
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest/scale-to-width-down/640?cb=20180427153715" group-title="ESPORTES",ESPN 2 FHD +
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest/scale-to-width-down/640?cb=20180427153715" group-title="FULL HD H265",ESPN 2 H265
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest/scale-to-width-down/640?cb=20180427153715" group-title="ESPORTES",ESPN 2 HD +
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="Espn BRASIL FHD +" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/espnbrasil_N.png" group-title="ESPORTES",Espn BRASIL FHD +
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL H265" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/espnbrasil_N.png" group-title="FULL HD H265",ESPN BRASIL H265
+http://newmais.top:8000/generaldudu/123456/158
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN  BRASIL HD +" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/espnbrasil_N.png" group-title="ESPORTES",ESPN  BRASIL HD +
+http://newmais.top:8000/generaldudu/123456/538
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/espnbrasil_N.png" group-title="ESPORTES",ESPN BRASIL SD
+http://newmais.top:8000/generaldudu/123456/159
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL SD +" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/espnbrasil_N.png" group-title="ESPORTES",ESPN BRASIL SD +
+http://newmais.top:8000/generaldudu/123456/838
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD +" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-122106-banners-pacotes-opcionais-espn-extra.png" group-title="ESPORTES",ESPN EXTRA FHD +
+http://newmais.top:8000/generaldudu/123456/542
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA H265" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-122106-banners-pacotes-opcionais-espn-extra.png" group-title="FULL HD H265",ESPN EXTRA H265
+http://newmais.top:8000/generaldudu/123456/161
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-122106-banners-pacotes-opcionais-espn-extra.png" group-title="ESPORTES",ESPN EXTRA HD
+http://newmais.top:8000/generaldudu/123456/160
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD +" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-122106-banners-pacotes-opcionais-espn-extra.png" group-title="ESPORTES",ESPN EXTRA HD +
+http://newmais.top:8000/generaldudu/123456/543
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 FHD+" tvg-logo="http://skybrasil.online/img/destaques/cdf0a9f52e9f9062ef4d6e7f674dd8da-1505572709.png" group-title="FILMES SERIES",FOX PREMIUM 1 FHD+
+http://newmais.top:8000/generaldudu/123456/499
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD +" tvg-logo="http://www.telegrambot.club/tvonline/wp-content/uploads/2019/01/FOX-PREMIUM-2.png" group-title="FILMES SERIES",FOX PREMIUM 2 FHD +
+http://newmais.top:8000/generaldudu/123456/552
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Fox Premium 2 HD +" tvg-logo="http://www.telegrambot.club/tvonline/wp-content/uploads/2019/01/FOX-PREMIUM-2.png" group-title="FILMES SERIES",Fox Premium 2 HD +
+http://newmais.top:8000/generaldudu/123456/551
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://www.telegrambot.club/tvonline/wp-content/uploads/2019/01/FOX-PREMIUM-2.png" group-title="FILMES SERIES",FOX PREMIUM 2 HD
+http://newmais.top:8000/generaldudu/123456/170
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/640?cb=20180810230802" group-title="4K",FOX SPORTS 4K
+http://newmais.top:8000/generaldudu/123456/674
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/640?cb=20180810230802" group-title="ESPORTES",FOX SPORTS FHD +
+http://newmais.top:8000/generaldudu/123456/555
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/640?cb=20180810230802" group-title="FULL HD H265",FOX SPORTS H265
+http://newmais.top:8000/generaldudu/123456/173
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/640?cb=20180810230802" group-title="ESPORTES",FOX SPORTS HD +
+http://newmais.top:8000/generaldudu/123456/655
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/640?cb=20180810230802" group-title="ESPORTES",FOX SPORTS SD
+http://newmais.top:8000/generaldudu/123456/174
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160413213908" group-title="4K",FOX SPORTS 2 4K
+http://newmais.top:8000/generaldudu/123456/724
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160413213908" group-title="ESPORTES",Fox Sports 2 FHD +
+http://newmais.top:8000/generaldudu/123456/554
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160413213908" group-title="FULL HD H265",FOX SPORTS 2 H265
+http://newmais.top:8000/generaldudu/123456/171
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160413213908" group-title="ESPORTES",Fox Sports 2 HD +
+http://newmais.top:8000/generaldudu/123456/553
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160413213908" group-title="ESPORTES",FOX SPORTS 2 HD +
+http://newmais.top:8000/generaldudu/123456/725
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160413213908" group-title="ESPORTES",FOX SPORTS 2 SD
+http://newmais.top:8000/generaldudu/123456/172
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RJ H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/Logo-tv-globo-2015.png/revision/latest/scale-to-width-down/479?cb=20161202205326" group-title="FULL HD H265",GLOBO RJ H265
+http://newmais.top:8000/generaldudu/123456/203
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RJ HD+" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/Logo-tv-globo-2015.png/revision/latest/scale-to-width-down/479?cb=20161202205326" group-title="REDE GLOBO",GLOBO RJ HD+
+http://newmais.top:8000/generaldudu/123456/743
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RJ HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/Logo-tv-globo-2015.png/revision/latest/scale-to-width-down/479?cb=20161202205326" group-title="REDE GLOBO",GLOBO RJ HD
+http://newmais.top:8000/generaldudu/123456/464
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RJ SD+" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/Logo-tv-globo-2015.png/revision/latest/scale-to-width-down/479?cb=20161202205326" group-title="REDE GLOBO",GLOBO RJ SD+
+http://newmais.top:8000/generaldudu/123456/744
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE  CLUBES 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="4K",PREMIERE  CLUBES 4K
+http://newmais.top:8000/generaldudu/123456/676
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE CLUBES FHD +
+http://newmais.top:8000/generaldudu/123456/585
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES H265" tvg-logo="https://futebolplay.net/wp-content/uploads/2019/08/premiere-clubes.png" group-title="FULL HD H265",PREMIERE CLUBES H265
+http://newmais.top:8000/generaldudu/123456/310
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE CLUBES HD +
+http://newmais.top:8000/generaldudu/123456/583
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://futebolplay.net/wp-content/uploads/2019/08/premiere-clubes.png" group-title="PREMIER",PREMIERE CLUBES SD
+http://newmais.top:8000/generaldudu/123456/311
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE CLUBES SD +
+http://newmais.top:8000/generaldudu/123456/773
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 2 FHD +
+http://newmais.top:8000/generaldudu/123456/586
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="FULL HD H265",PREMIERE 2 H265
+http://newmais.top:8000/generaldudu/123456/297
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 2 HD
+http://newmais.top:8000/generaldudu/123456/457
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 2 HD +
+http://newmais.top:8000/generaldudu/123456/591
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 2 SD
+http://newmais.top:8000/generaldudu/123456/298
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 3 FHD +
+http://newmais.top:8000/generaldudu/123456/587
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="FULL HD H265",PREMIERE 3 H265
+http://newmais.top:8000/generaldudu/123456/299
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 3 HD
+http://newmais.top:8000/generaldudu/123456/458
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 3 HD +
+http://newmais.top:8000/generaldudu/123456/592
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 3 SD
+http://newmais.top:8000/generaldudu/123456/300
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 4 FHD +
+http://newmais.top:8000/generaldudu/123456/588
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="FULL HD H265",PREMIERE 4 H265
+http://newmais.top:8000/generaldudu/123456/301
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 4 HD
+http://newmais.top:8000/generaldudu/123456/459
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 4 HD +
+http://newmais.top:8000/generaldudu/123456/584
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 4 SD
+http://newmais.top:8000/generaldudu/123456/302
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 SD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 4 SD +
+http://newmais.top:8000/generaldudu/123456/774
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 5 FHD +
+http://newmais.top:8000/generaldudu/123456/589
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="FULL HD H265",PREMIERE 5 H265
+http://newmais.top:8000/generaldudu/123456/303
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 5 HD
+http://newmais.top:8000/generaldudu/123456/460
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 5 HD +
+http://newmais.top:8000/generaldudu/123456/593
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 5 SD
+http://newmais.top:8000/generaldudu/123456/304
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 6 FHD +
+http://newmais.top:8000/generaldudu/123456/590
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="FULL HD H265",PREMIERE 6 H265
+http://newmais.top:8000/generaldudu/123456/305
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 6 HD
+http://newmais.top:8000/generaldudu/123456/461
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 6 HD +
+http://newmais.top:8000/generaldudu/123456/594
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 6 SD
+http://newmais.top:8000/generaldudu/123456/306
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 7 FHD +
+http://newmais.top:8000/generaldudu/123456/660
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="FULL HD H265",PREMIERE 7 H265
+http://newmais.top:8000/generaldudu/123456/307
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 7 HD
+http://newmais.top:8000/generaldudu/123456/462
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/640?cb=20190825002401" group-title="PREMIER",PREMIERE 7 SD
+http://newmais.top:8000/generaldudu/123456/308
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="" group-title="4K",REDETV 4K
+http://newmais.top:8000/generaldudu/123456/679
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/RedeTV%21_logo_2014.png/revision/latest?cb=20150818193023" group-title="CANAIS ABERTOS",REDE TV HD
+http://newmais.top:8000/generaldudu/123456/331
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/RedeTV%21_logo_2014.png/revision/latest?cb=20150818193023" group-title="CANAIS ABERTOS",REDE TV SD
+http://newmais.top:8000/generaldudu/123456/332
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/RedeTV%21_logo_2014.png/revision/latest?cb=20150818193023" group-title="CANAIS ABERTOS",REDE TV SD +
+http://newmais.top:8000/generaldudu/123456/599
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest/scale-to-width-down/639?cb=20170815145145" group-title="4K",SPORTV 4K
+http://newmais.top:8000/generaldudu/123456/789
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest/scale-to-width-down/639?cb=20170815145145" group-title="ESPORTES",SPORTV FHD +
+http://newmais.top:8000/generaldudu/123456/608
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest/scale-to-width-down/639?cb=20170815145145" group-title="FULL HD H265",SporTV H265
+http://newmais.top:8000/generaldudu/123456/348
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest/scale-to-width-down/639?cb=20170815145145" group-title="ESPORTES",SporTV HD +
+http://newmais.top:8000/generaldudu/123456/609
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest/scale-to-width-down/639?cb=20170815145145" group-title="ESPORTES",SporTV SD
+http://newmais.top:8000/generaldudu/123456/349
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest/scale-to-width-down/639?cb=20170815145145" group-title="ESPORTES",SporTV SD +
+http://newmais.top:8000/generaldudu/123456/667
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="Sportv 2 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/SporTV2_2017.png/revision/latest/scale-to-width-down/640?cb=20170815150057" group-title="ESPORTES",Sportv 2 FHD +
+http://newmais.top:8000/generaldudu/123456/606
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/SporTV2_2017.png/revision/latest/scale-to-width-down/640?cb=20170815150057" group-title="FULL HD H265",SporTV 2 H265
+http://newmais.top:8000/generaldudu/123456/344
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="Sportv 2 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/SporTV2_2017.png/revision/latest/scale-to-width-down/640?cb=20170815150057" group-title="ESPORTES",Sportv 2 HD +
+http://newmais.top:8000/generaldudu/123456/610
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/SporTV2_2017.png/revision/latest/scale-to-width-down/640?cb=20170815150057" group-title="ESPORTES",SporTV 2 SD
+http://newmais.top:8000/generaldudu/123456/345
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/SporTV2_2017.png/revision/latest/scale-to-width-down/640?cb=20170815150057" group-title="ESPORTES",SporTV 2 SD +
+http://newmais.top:8000/generaldudu/123456/787
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/SporTV3_2017.png/revision/latest?cb=20170815150232" group-title="ESPORTES",SporTV 3 FHD +
+http://newmais.top:8000/generaldudu/123456/607
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 H265" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/SporTV3_2017.png/revision/latest?cb=20170815150232" group-title="FULL HD H265",SporTV 3 H265
+http://newmais.top:8000/generaldudu/123456/346
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/SporTV3_2017.png/revision/latest?cb=20170815150232" group-title="ESPORTES",SporTV 3 HD +
+http://newmais.top:8000/generaldudu/123456/611
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/SporTV3_2017.png/revision/latest?cb=20170815150232" group-title="ESPORTES",SporTV 3 SD
+http://newmais.top:8000/generaldudu/123456/347
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD +" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/SporTV3_2017.png/revision/latest?cb=20170815150232" group-title="ESPORTES",SporTV 3 SD +
+http://newmais.top:8000/generaldudu/123456/788
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg/revision/latest/scale-to-width-down/382?cb=20181025171618" group-title="4K",TNT 4K
+http://newmais.top:8000/generaldudu/123456/678
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD +" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" group-title="FILMES SERIES",TNT FHD +
+http://newmais.top:8000/generaldudu/123456/663
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT H265" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" group-title="FULL HD H265",TNT H265
+http://newmais.top:8000/generaldudu/123456/375
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" group-title="FILMES SERIES",TNT HD
+http://newmais.top:8000/generaldudu/123456/376
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD +" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" group-title="FILMES SERIES",TNT HD +
+http://newmais.top:8000/generaldudu/123456/800
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" group-title="FILMES SERIES",TNT SD
+http://newmais.top:8000/generaldudu/123456/379
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND  SPORTS  HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/Bandsports-2018-atual.jpg/revision/latest?cb=20190512205903" group-title="ESPORTES",BAND  SPORTS  HD
+http://newmais.top:8000/generaldudu/123456/33
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/espnbrasil_N.png" group-title="ESPORTES",ESPN BRASIL HD
+http://newmais.top:8000/generaldudu/123456/52
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Fox_logo_orange-1.png/revision/latest?cb=20170806235909" group-title="FILMES SERIES",FOX HD
+http://newmais.top:8000/generaldudu/123456/54
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/640?cb=20180810230802" group-title="ESPORTES",FOX SPORTS HD
+http://newmais.top:8000/generaldudu/123456/56
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160413213908" group-title="ESPORTES",FOX SPORTS 2 HD
+http://newmais.top:8000/generaldudu/123456/57
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest/scale-to-width-down/639?cb=20170815145145" group-title="ESPORTES",SporTV HD
+http://newmais.top:8000/generaldudu/123456/83
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/SporTV2_2017.png/revision/latest/scale-to-width-down/640?cb=20170815150057" group-title="ESPORTES",SporTV 2 HD
+http://newmais.top:8000/generaldudu/123456/84
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/SporTV3_2017.png/revision/latest?cb=20170815150232" group-title="ESPORTES",SporTV 3 HD
+http://newmais.top:8000/generaldudu/123456/85
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS H265 " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/Bandsports-2018-atual.jpg/revision/latest?cb=20190512205903" group-title="FULL HD H265",BAND SPORTS H265 
+http://newmais.top:8000/generaldudu/123456/111
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="ESPORTES",COMBATE SD
+http://newmais.top:8000/generaldudu/123456/130
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE H265" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="FULL HD H265",COMBATE H265
+http://newmais.top:8000/generaldudu/123456/129
